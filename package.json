@@ -1,0 +1,12 @@
+{
+  "name": "living-status-bot",
+  "version": "v0.0.0",
+  "description": "To help with administration at the oregon state discord server",
+  "main": "index.js",
+  "author": "Logan Saso",
+  "license": "MIT",
+  "dependencies": {
+    "discord.io": "^2.5.2",
+    "fs": "^0.0.1-security"
+  }
+}
